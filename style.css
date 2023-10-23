@@ -1,0 +1,24 @@
+    .principal {
+background: #CCCCCC;
+}
+
+h1 {
+text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+#missao {
+color: red;
+font-size: 18px;
+}
+
+#banner {
+width: 100%;
+}
+
+.beneficios {
+     background: white;
+
