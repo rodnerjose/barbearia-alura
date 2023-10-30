@@ -21,4 +21,16 @@ width: 100%;
 
 .beneficios {
      background: white;
+}
+
+ul {
+      display: inline-block;
+      width: 20%;
+      vertical-align: top;
+      margin-right: 15%;
+}
+
+.beneficios-imagem {
+    width: 50%;
+}
 
