@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="widht=device-widht, inicial-scale=1.8">
+    <title> produtos  - barbearia alura</title>
+</head>
+<body>
+    <header>
+        <h1> <img src="logo.png" alt="logo barbearia alura "></h1>
+        <nav>
+            <ul>
+                <li> <a href="index.html">home</a> </li>
+                <li> <a href="produtos.html">produtos
+                <li> <a href="#">Contrato</a> </li>
